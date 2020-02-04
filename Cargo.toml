@@ -1,0 +1,9 @@
+[package]
+name = "psum"
+version = "0.1.0"
+authors = ["Horacio Hidalgo <horacio.m.hidalgo.herrera@intel.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
